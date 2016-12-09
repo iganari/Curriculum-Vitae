@@ -7,9 +7,9 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Name|五十嵐 透 (Toru Igarashi))|
+|Blog|[Hejdaの見る夢](http://iganari.hatenablog.com/)|
+|Twitter|-|
 |Qiita|[foobar](http://qiita.com/foobar)|
 |SlideShare|[foobar](http://www.slideshare.net/foobar)|
 |Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
