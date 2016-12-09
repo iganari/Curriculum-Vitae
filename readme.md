@@ -1,5 +1,8 @@
 # 職務経歴書
 
+![](icon-iganari.jpg)
+
+
 ## 基本情報
 
 |key|value|
