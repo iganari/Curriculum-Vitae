@@ -7,7 +7,7 @@
 
 |key|value|
 |---|-----|
-|Name|五十嵐 透 (Toru Igarashi))|
+|Name|五十嵐 透 (Toru Igarashi)|
 |Blog|[Hejdaの見る夢](http://iganari.hatenablog.com/)|
 |Twitter|-|
 |Qiita|[iganari](http://qiita.com/iganari)|
@@ -21,21 +21,36 @@
 ### 言語
 
 - プログラミング言語
-
+  - bash
+    - 随時
+  - php
+    - 3ヶ月
+  - java
+    - なう
+    
 - 日本語
   - ネイティブ
-- 英語（例）
+- 英語
   - かんたんな日常会話ができる（例）
 
 ### フレームワーク
 
-- Framework名
-  - 関わった製品やポートフォリオがあればそのリンクを貼る
-
+- FuelPHP
+  - webサイトにおける基本的なMVCを理解
+  
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- Infrastructure as code
+  - AWS
+  - Azure
+  - GCP
 
+- Configuration as Code
+  - Ansible
+    - アーキテクチャがあれば、すぐに書き始められる
+  - Chef
+    - 少し調べながらではあるが、すぐに書き始められる
+    
 ## 強み
 
 ## やったことはないが興味があるもの
