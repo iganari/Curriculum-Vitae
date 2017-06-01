@@ -130,3 +130,10 @@
 - k8s布教
 - aws布教
 - azure布教
+
+
+## []()
+
+### MSP事業部
+
+Google Cloud platform
