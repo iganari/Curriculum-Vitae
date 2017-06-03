@@ -137,3 +137,9 @@
 ### MSP事業部
 
 Google Cloud platform
+
+使用
+ansible
+terraform
+GKE
+docker
